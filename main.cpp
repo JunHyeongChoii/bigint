@@ -17,7 +17,8 @@ int main()
 
     std::string summ = "";
     summ = sum(first, second);
-    std::string subb = sub(first, second);
+    std::string subb ="";
+    subb =  sub(first, second);
 
 
     std::cout << "Sum           >>  "<< summ << std::endl;
