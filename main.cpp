@@ -5,6 +5,7 @@ std::string sum(std::string first, std::string second);
 std::string sub(std::string first, std::string second);
 int main()
 {
+    //
     std::string first;
     std::string second;
 
